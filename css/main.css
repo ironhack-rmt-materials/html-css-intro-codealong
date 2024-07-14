@@ -23,8 +23,8 @@ h1 {
 
 #main-header {
     margin: 0;
-    padding: 1rem;
     background-color: #bbe9f1;
+    padding: 20px;
 }
 
 
@@ -35,14 +35,14 @@ h1 {
 
 .course-summary {
     border: 1px solid #333;
-    margin: 2rem;
-    padding: 2rem;
     background-color: #eee;
+    margin: 20px;
+    padding: 20px;
     border-radius: 10px;
 }
 
 .featured { /* also: .course-summary.featured */
-    background-color: #ffca69;
+    background-color: #7da5e6;
 }
 
 
